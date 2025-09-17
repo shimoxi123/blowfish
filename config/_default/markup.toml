@@ -30,6 +30,6 @@
   tabWidth = 4 # Tab宽度
 
 [tableOfContents]
-  startLevel = 2 # 目录开始级别
+  startLevel = 1 # 目录开始级别（从H1开始）
   endLevel = 4 # 目录结束级别
   ordered = false # 是否有序列表
